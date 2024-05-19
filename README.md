@@ -1,6 +1,6 @@
 # Crescent Garden
 
-## Stories
+## Story Fragments
 
 - [CG A - Green Catcher](https://github.com/FoA-game/CrescentGarden/blob/main/EP1/stories.md#cg-a---green-catcher)
 - [CG B - Second Ark](https://github.com/FoA-game/CrescentGarden/blob/main/EP1/stories.md#cg-b---second-ark)
