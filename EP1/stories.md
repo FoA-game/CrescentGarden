@@ -13,10 +13,7 @@ In the A.R.118, Mich Re‘nard was born in Crescent Garden, a child of both indi
 
 "I was born in this oasis, and from my earliest memories, I've been haunted by the fear of losing this green space. That fear drove me to seek a sustainable way of living — one that achieves self-sufficiency in energy, water, and food to minimize our environmental impact."
 
-The inhabitants of this community sustain their daily lives by harvesting rainwater and harnessing solar and wind energy with greenhouses to secure their food supply. However, some youth within the community have begun to express disdain for this lifestyle. They show little concern for the future of the oasis, grumbling about the inconveniences of life, the hardships of their living conditions, and the demands of labor.
-
-Faced with these differing opinions, Mich Re‘nard responds, "Everyone longs for convenience and comfort. However, I believe that humanity should rely less on man-made systems for life. The collapse of high-tech communities following the Great Disruption is a testament to that."
-
+The inhabitants of this community sustain their daily lives by harvesting rainwater and harnessing solar and wind energy with greenhouses to secure their food supply. However, the younger generation struggles to embrace this way of life. They resent the endless labor and long for comfort and convenience. Some even dream of leaving the oasis to explore the northern cities. Despite the doubts, Mich remains resolute: "The collapse of high-tech communities after the Great Disruption proved the fragility of relying on man-made systems. We must find our own path, no matter how difficult the journey may be."
 
 ## CG C - Eden Resurgence
 
