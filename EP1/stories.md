@@ -1,15 +1,15 @@
 ## CG A - Green Catcher
 
-In the southern reaches of Auroria, an oasis stands, blooming within the embrace of Crescent Lake. This land, once known as the "Vitala-Rey Biosphere Reserve", shares a narrative as ancient as the earth itself, coursing with the blood and memories of its indigenous peoples. Yet, the Great Disruption came unbidden, turning all to dust; the forests maintained for generations were no more, leaving behind only lethal aerosols, endless deserts, and one stubborn sliver of green.
+In the southern reaches of Auroria, an oasis stands, blooming within the embrace of Crescent Lake. This land, once known as the Vitala-Rey Biosphere Reserve, shares a narrative as ancient as the earth itself, coursing with the blood and memories of its Indigenous peoples. Yet, the Great Disruption came unbidden, turning all to dust; the forests maintained for generations were no more, leaving behind only lethal aerosols, endless deserts, and one stubborn sliver of green.
 
-A group of survivors, yearning for a return to tradition and a natural lifestyle, left Nuovartica. They wandered the wastelands until, by the hand of fate, they were led to the very ends of the south, to Crescent Garden. Together, they clasped hands with the original inhabitants and joined to guard this precious emerald.
+A group of survivors, yearning to return to tradition and a natural lifestyle, left Nuovartica. They wandered the wastelands until, by the hand of fate, they were led to the very end of the south. Together, they clasped hands with the original inhabitants and joined to guard this precious emerald.
 
-Their steadfastness is not just a nod to the past but a hope for the future — despite the uncertain path civilization may tread, green will once again cover this land. Amidst the desolation, they dream of a brighter world for the next generation — where sunlight dances through the leaves on a freshly scented breeze and true steak and fine wine grace the dining table.
+Their steadfastness is not just a nod to the past but a hope for the future — despite the uncertain path civilization may tread, green will once again cover this land. Amidst the desolation, they dream of a brighter world for the next generation — where sunlight dances through the leaves on a freshly scented breeze and steak and wine grace the dining table.
 
 
 ## CG B - Second Ark
 
-In the A.R.118, Mich Re‘nard was born in Crescent Garden, a child of both indigenous and outsider heritage. He would later become an acclaimed architect and leader, leading the construction of residential buildings known as the "Second Ark" using mud, plant fibers, and relics from nearby abandoned cities.
+In the A.R.118, Mich Re‘nard was born in Crescent Garden, a child of both indigenous and outsider heritage. He later became an acclaimed architect and leader, leading the construction of residential buildings known as the "Second Ark" using mud, plant fibers, and relics from nearby abandoned cities.
 
 "I was born in this oasis, and from my earliest memories, I've been haunted by the fear of losing this green space. That fear drove me to seek a sustainable way of living — one that achieves self-sufficiency in energy, water, and food to minimize our environmental impact."
 
@@ -19,11 +19,11 @@ The inhabitants of this community sustain their daily lives by harvesting rainwa
 
 Fellow gardeners, today I stand before you as a member of this resilient community and witness the indomitable spirit of Crescent Garden—the last garden of human civilization.
 
-Thanks to the relentless efforts of our community members, Crescent Garden is expanding its boundaries by 7% annually, weaving a veil of life across this once-forsaken land. Although this expansion will inevitably slow, we anticipate that this desert will once again become a lush forest within the next two centuries.
+Through the tireless efforts of our community members, Crescent Garden is expanding its boundaries by 7% annually, reweaving the fabric of life on this forsaken land. Although the pace of expansion will eventually slow, we estimate that lush forests will replace this desert within the next two centuries.
 
-Lina Kovalenko has dedicated herself to the remarkable task of using microbes to decompose the Ceras crystals. This action has eradicated the deadly threat these crystals posed to the land, enabling flora and fauna to thrive here once more—despite the distant air currents that still carry the aerosols, casting a shadow of death over the land. Elian Martez and his team have been restoring the ecology using local plants such as sagebrush and manila, employing genetic editing to adapt them to extreme environments. By taking root in deserts and saline lands, they maintain soil moisture, improve soil quality, and lay the groundwork for the growth of more woody plants.
+Lina Kovalenko has dedicated herself to the remarkable task of using microorganisms to break down Ceras crystals. Despite the distant winds still carrying aerosols and casting a shadow of death over this land, her research has significantly reduced the deadly threats in the soil, allowing flora and fauna to flourish once more. Meanwhile, Elian Martez and his team have used gene editing technology to domesticate local plants such as sagebrush and Manila grass, adapting them to extreme environments. These plants, rooted in deserts and saline-alkaline soils, not only retain soil moisture and improve soil quality but also lay the foundation for the growth of more woody vegetation.
 
-We have achieved initial success in ecological restoration, so let us continue to move forward together on this path of revival. We are here to survive and ensure that future generations inherit a world brimming with greenery and teeming with life.
+We have taken the crucial first step on the path to ecological restoration, but this is just the beginning. Let us continue to move forward together until this land is revived and future generations inherit a world whole of greenery and vitality. May the greenery endure, and may hope be everlasting.
 
 
 ## CG D - Demolition Compensation
