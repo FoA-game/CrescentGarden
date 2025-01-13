@@ -42,7 +42,7 @@ We look forward to building a brighter and better future with you in our new com
 
 Sincerely,
 
-Civilization Restoration Committee in White Tower
+White Tower Council
 
 
 ## CG E - Chicken Lover
