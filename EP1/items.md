@@ -33,7 +33,7 @@ The soaring white building, the neon-lit black market, and even the blissful lif
 Its massive power consumption allows for less than a three-minute journey into fantasy.
 
 ### CG 08 - Purification Algae
-A type of blue-green algae, excels at adsorbing and transforming pollutants, exclusively used for purifying rainwater. <br>
+A type of blue-green algae, excels at absorbing and transforming pollutants, exclusively used for purifying rainwater. <br>
 Rainwater is often affected by pollutants and toxins. After being processed by the algae, the slightly tangy and fishy taste in drinking water serves as a safety indicator. <br>
 Rainfall levels may fluctuate significantly, so it is crucial to plan water usage sensibly.
 
