@@ -56,8 +56,11 @@ Yay! It's chicken day again, and I even borrowed some rosemary from Uncle Hale, 
 **A.R.175, Day 221**
 Today, Master Mich took us to visit the seed bank. He told us that one day, Auroria would be filled with plants. Sounds pretty nice, but Ela told me that "one day" might be a hundred years from now. Who cares about what happens then?
 
-**A.R.175, Day 223**
-Zue told me that in the old world, people could eat meat every day. He also said there are other cities to the north of the continent, something called New Artica. Over there, people don't have to fix their houses every day, take care of the crops in the greenhouse, or plant Manila grass in the desert.
+**A.R.175, Day 223** 
+Kara died today. The rain carried Ceras. She was out in the desert with nowhere to hide.
 
 **A.R.175, Day 224**
+Zue told me that in the old world, people could eat meat every day. He also said there are other cities to the north of the continent, something called New Artica. Over there, people don't have to fix their houses every day, take care of the crops in the greenhouse, or plant Manila grass in the desert.
+
+**A.R.175, Day 225**
 Zue told me he wanted to leave the oasis. I asked him if guarding the garden wasn't important. He countered, asking, what if we killed all the chickens at home for meat? I said that's impossible; those chickens need to keep laying eggs. Then he asked, what if you only had one more week to live? What's the point of chickens that can lay eggs for two more years then? I thought about it for a long time, and suddenly, I think I understand what he meant.
