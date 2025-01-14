@@ -27,10 +27,10 @@ Spheres brimming with vitality, crafted from a blend of plant seeds, nitrogen-fi
 Tossed by hand, they disintegrate upon contact with the ground, allowing greenery to sprout and take root in barren lands. <br>
 Gardeners, carrying these sparks of life, wander through deserts while death lingers around them.
 
-### CG 07 - Morpheus
-A virtual reality device that's all the rage in distant cities offers an unprecedented real sensory experience. <br>
-The soaring white building, the neon-lit black market, and even the blissful life of the olden days—these are dreams you've never possessed. <br>
-Its massive power consumption allows for less than a three-minute journey into fantasy.
+### CG 07 - Neural Resonator
+A simple device gaining popularity in distant cities, subtly modulating sensations and emotions through electrical signals. <br>
+This technology quietly spreads among teenagers, exchanged in dimly lit corners where hushed conversations linger. <br>
+“It made me forget the scent of wild grass... forget the scorching sun of the afternoon.”
 
 ### CG 08 - Purification Algae
 A type of blue-green algae, excels at absorbing and transforming pollutants, exclusively used for purifying rainwater. <br>
