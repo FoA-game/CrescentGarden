@@ -17,13 +17,18 @@ The inhabitants of this community sustain their daily lives by harvesting rainwa
 
 ## CG C - Eden Resurgence
 
-Fellow gardeners, today I stand before you as a member of this resilient community and witness the indomitable spirit of Crescent Garden—the last garden of human civilization.
+Dear gardeners,
 
-Through the tireless efforts of our community members, Crescent Garden is expanding its boundaries by 7% annually, reweaving the fabric of life on this forsaken land. Although the pace of expansion will eventually slow, we estimate that lush forests will replace this desert within the next two centuries.
+Today, we gather not only to mourn Lina Kovalenko but to honor the priceless legacy she has left for Crescent Garden.
+In those darkest days, Lina led us to face the shadow of death. She found hope in microorganisms, successfully breaking down the deadly Ceras crystals and turning cursed wastelands into cradles of life. It was her relentless dedication and fearless courage that reignited the green spark in the silent desert.
 
-Lina Kovalenko has dedicated herself to the remarkable task of using microorganisms to break down Ceras crystals. Despite the distant winds still carrying aerosols and casting a shadow of death over this land, her research has significantly reduced the deadly threats in the soil, allowing flora and fauna to flourish once more. Meanwhile, Elian Martez and his team have used gene editing technology to domesticate local plants such as sagebrush and Manila grass, adapting them to extreme environments. These plants, rooted in deserts and saline-alkaline soils, not only retain soil moisture and improve soil quality but also lay the foundation for the growth of more woody vegetation.
+Her teammate, Elian Martez, once described her: "Lina was a beacon to us all. She pioneered the breakdown of Ceras crystals and domesticated desert grasses, turning them into guardians of life. Her efforts laid the foundation for more plants to flourish. Lina didn’t just change this land; she changed our future."
 
-We have taken the crucial first step on the path to ecological restoration, but this is just the beginning. Let us continue to move forward together until this land is revived and future generations inherit a world whole of greenery and vitality. May the greenery endure, and may hope be everlasting.
+But fate cruelly ended her life. In a sudden Ceras storm, Lina gave her team the chance to live while she herself fell forever. Her final words were: "Take hope back. Let it root and grow in this land."
+
+Now, in the place where Lina fell, a new forest has begun to sprout. The boundaries of Crescent Garden are expanding at a rate of 7% per year, and in the next two centuries, this desert is expected to be replaced by lush, thriving forests. Their dream is steadily becoming a reality.
+
+Let us remember Lina’s name and carry forward her unfinished mission. May the greenery endure and may hope be everlasting.
 
 
 ## CG D - Demolition Compensation
