@@ -37,10 +37,10 @@ A type of blue-green algae, excels at absorbing and transforming pollutants, exc
 Rainwater is often affected by pollutants and toxins. After being processed by the algae, the slightly tangy and fishy taste in drinking water serves as a safety indicator. <br>
 Rainfall levels may fluctuate significantly, so it is crucial to plan water usage sensibly.
 
-### CG 09 - Radio Set
-An essential communication device for desert wanderers, it also connects to broadcasts from distant cities. <br>
-The broadcasts recount vastly different lifestyles  — automated conveniences, adventures within virtual reality, and the mechanical transformation of bodies. <br>
-Some may yearn for these, yet the morrow of our garden demands the guardianship of us all.
+### CG 09 - Crystallized Sagebrush
+Rooted in the silent barrens of saline earth, its tendrils slowly weave through fractured soil, once preserving moisture and nurturing life. <br>
+Now, its leaves are veiled in a cold sheen of crystal, and even the reshaping of its destiny through genetic hands could not alter its fate. <br>
+Resilient as it is, even it succumbs to lifelessness in the face of Ceras.
 
 ### CG 10 - Construction Toolkit
 This toolkit encompasses a variety of tools, from manual to electric, providing comprehensive support for the construction and maintenance of homes. <br>
