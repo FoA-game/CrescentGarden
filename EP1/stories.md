@@ -26,7 +26,7 @@ Her teammate, Elian Martez, once described her: "Lina was a beacon to us all. Sh
 
 But fate cruelly ended her life. In a sudden Ceras storm, Lina gave her team the chance to live while she herself fell forever. Her final words were: "Take hope back. Let it root and grow in this land."
 
-Now, in the place where Lina fell, a new forest has begun to sprout. The boundaries of Crescent Garden are expanding at a rate of 7% per year, and in the next two centuries, this desert is expected to be replaced by lush, thriving forests. Their dream is steadily becoming a reality.
+Now, in the place where Lina fell, a new forest has begun to sprout. The boundaries of Crescent Garden are expanding at a rate of 7% per year, and in the next two centuries, this desert is expected to be replaced by lush, thriving forests. Her dream is steadily becoming a reality.
 
 Let us remember Lina’s name and carry forward her unfinished mission. May the greenery endure and may hope be everlasting.
 
