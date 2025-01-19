@@ -13,9 +13,9 @@ As dusk falls, people enjoy the tranquility after a day's labor under the soft b
 The by-products of metabolism can be used as fertilizer.
 
 ### CG 04 - Papyrus Photo
-Beneath the shade of the dragon tree, Mich Re‘nard tightly embraces his four-year-old granddaughter Ela, with the enchanting Crescent Lake in the background. <br>
-Time seems to stand still at this moment; the blazing sun makes it hard to keep one's eyes open, but the grandfather and granddaughter still smile brilliantly. <br>
-This dragon tree was planted by Mich himself on the day his daughter was born.
+Beneath the shade of the dragon tree, Mich Re‘nard held his four-year-old granddaughter Ela in his arms, their smiles radiant, while the shimmering light of Crescent Lake behind them made it hard to keep one’s eyes open. <br>
+This dragon tree, planted by Mich himself on the day his daughter was born, has now grown lush and full. <br>
+In this desolate desert, we are both the gardeners and the flowers.
 
 ### CG 05 - Damaged Protective Suit
 A tattered TC-107 protective suit bears witness to a guardian's sacrifice. <br>
